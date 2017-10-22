@@ -3,7 +3,7 @@ date = "2017-10-22T21:05:33+05:30"
 title = "Sobre mí"
 +++
 
-Profesional con formación en Arquitectura, Desarrollo de Aplicaciones Web y apasionada por el diseño. Actualmente estudio un bootcamp de UX/UI Design en Ironhack para complementar el desarrollo con el diseño de experiencias de usuario.
+Profesional con formación en Arquitectura, Desarrollo de Aplicaciones Web y apasionada por el diseño. Actualmente estudio un bootcamp de UX/UI Design en Ironhack para complementar el desarrollo git ccon el diseño de experiencias de usuario.
 
 
 Gracias a mi formación previa en organización de proyectos y la experiencia de trabajar y formar parte de una startUp, aporto valor añadido en la organización y el desarrollo de todos los proyectos en los que colaboro.
