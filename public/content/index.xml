@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents on HELENA M.M. PORTFOLIO</title>
+    <link>http://helenamm.com/content/</link>
+    <description>Recent content in Contents on HELENA M.M. PORTFOLIO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Oct 2017 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://helenamm.com/content/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Work 1</title>
+      <link>http://helenamm.com/content/portfolio/work1/</link>
+      <pubDate>Sun, 22 Oct 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://helenamm.com/content/portfolio/work1/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
