@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HELENA M.M. PORTFOLIO</title>
-    <link>http://helenamm.com/</link>
-    <description>Recent content on HELENA M.M. PORTFOLIO</description>
+    <title>Portfolios on HELENA M.M. PORTFOLIO</title>
+    <link>http://helenamm.com/portfolio/</link>
+    <description>Recent content in Portfolios on HELENA M.M. PORTFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Helena M.M.</copyright>
     <lastBuildDate>Sun, 22 Oct 2017 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="http://helenamm.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://helenamm.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
