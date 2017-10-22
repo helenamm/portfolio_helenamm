@@ -3,7 +3,7 @@ date = "2017-10-22T21:05:33+05:30"
 title = "Sobre mí"
 +++
 
-Profesional con formación en Arquitectura, Desarrollo de Aplicaciones Web y apasionada por el diseño. Actualmente estudio un bootcamp de UX/UI Design en Ironhack en el que estoy especializándome en el diseño de experiencias de usuario.
+Profesional con formación en Arquitectura, Desarrollo de Aplicaciones Web y apasionada por el diseño. Actualmente estudio un bootcamp de UX/UI Design en Ironhack para complementar el desarrollo con el diseño de experiencias de usuario.
 
 
 Gracias a mi formación previa en organización de proyectos y la experiencia de trabajar y formar parte de una startUp, aporto valor añadido en la organización y el desarrollo de todos los proyectos en los que colaboro.
@@ -17,7 +17,7 @@ Gracias a mi formación previa en organización de proyectos y la experiencia de
 * UX/UI : Visual thinking · Sketch
 * Metodologías ágiles : SCRUM · Kanban · GV Sprint
 
-#### Education
+#### Educación
 
 * 2017 - UX/UI Design Bootcamp @ Ironhack Madrid.
 * 2015 - Desarrollo de Aplicaciones Web @ I.E.S. Comercio Logroño (La Rioja) 
