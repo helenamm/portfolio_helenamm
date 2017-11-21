@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on HELENA M.M. PORTFOLIO</title>
-    <link>http://helenamm.com/categories/</link>
-    <description>Recent content in Categories on HELENA M.M. PORTFOLIO</description>
+    <title>Categories on HELENA MARTINEZ MERINO</title>
+    <link>https://helenamm.com/categories/</link>
+    <description>Recent content in Categories on HELENA MARTINEZ MERINO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Helena M.M.</copyright>
     
-	<atom:link href="http://helenamm.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://helenamm.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
