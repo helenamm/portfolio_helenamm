@@ -8,24 +8,25 @@ theme = "hugo-creative-portfolio-theme"
   # Use custom.css for your custom styling
   style = "sea"
   description = "Helena Martinez Merino Portfolio"
-  copyright = "&copy;2017 Helena M.M."
+  copyright = "2017 Helena M.M."
   sidebarAbout = [
-    "Arquitecta técnica reciclada en front-end developer.",
-    "Actual UX/UI ironhacker."
+    "UX/UI Designer & Front-end Developer",
+    "Design Thinking • Agile & Lean UX • Sketch",
+    "HTML5 & CSS • Javascript • React JS • Node JS"
   ]
   email = "helena.mrtz@gmail.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Trabajos"
+  name = "Work"
   url = ""
 
   [[params.navlinks]]
-  name = "Sobre mí"
+  name = "About me"
   url = "/about/"
 
   [[params.navlinks]]
-  name = "Contacto"
+  name = "Contact"
   url = "/contact/"
 
   [params.social]
