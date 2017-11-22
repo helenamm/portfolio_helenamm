@@ -1,5 +1,5 @@
 /* your styles go here */
 
-#all > div > div > div.col-xs-12.col-sm-8.col-md-9.content-column.white-background > div.row > div > div > p:nth-child(4) > img {
+div.content-column-content img {
     max-width: 400px;
 }
