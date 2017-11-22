@@ -13,13 +13,15 @@ Based on my background in project management and my experience in startups, I br
 
 ##### UX/UI
 
-Agile & Lean UX · Visual ThinkinG · GV Sprint · User Research · User Testing · Prototyping · Wireframing · Sketch · Flinto
+Agile & Lean UX · Visual ThinkinG · GV Sprint · User Research · User Testing · Prototyping · Wireframing
 
-##### FRONT END
+Sketch · InVision · Flinto
+
+##### FRONT-END
 HTML5 · CSS3 · Javascript · ECMAScript6 · React JS · Nativescript
 
-##### BACKEND
-Node.js · Golang · MongoDB
+##### BACK-END
+Node.js · MongoDB · Docker · Golang 
 
 ##### AGILE
 SCRUM · Kanban
