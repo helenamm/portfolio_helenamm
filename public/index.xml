@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HELENA MARTINEZ MERINO</title>
+    <link>https://helenamm.com/</link>
+    <description>Recent content on HELENA MARTINEZ MERINO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Helena M.M.</copyright>
+    <lastBuildDate>Wed, 22 Nov 2017 11:22:21 +0530</lastBuildDate>
+    
+	<atom:link href="https://helenamm.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GV Sprint</title>
+      <link>https://helenamm.com/portfolio/work1/</link>
+      <pubDate>Wed, 22 Nov 2017 11:22:21 +0530</pubDate>
+      
+      <guid>https://helenamm.com/portfolio/work1/</guid>
+      <description>&lt;p&gt;Methodology created at Google to fast-forward into the future and see finished product and customer reaction before making any expensive commitments.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

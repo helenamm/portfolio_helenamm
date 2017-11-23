@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HELENA MARTINEZ MERINO</title>
+    <link>https://helenamm.com/tags/</link>
+    <description>Recent content in Tags on HELENA MARTINEZ MERINO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2017 Helena M.M.</copyright>
+    
+	<atom:link href="https://helenamm.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
