@@ -7,3 +7,20 @@ p img {
 .sidebar-content {
     padding: 0 1em 0 1em;
 }
+
+#sidebar > div > p.sidebar-p-subdescription {
+    font-weight: bold !important;
+    color: #ff7373;
+  }
+
+
+.box-masonry:hover .box-masonry-image.with-hover-icon:after {
+    opacity: 0.7;
+    color: #ff7279;
+}
+
+.box-masonry h4 a:hover {
+    border-bottom: dotted 1px #ff7473;
+    color: #ff7473;
+    text-decoration: none;
+}
