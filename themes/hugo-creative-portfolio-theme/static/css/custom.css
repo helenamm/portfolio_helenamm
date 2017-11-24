@@ -1,5 +1,9 @@
 /* your styles go here */
 
 p img {
-    max-width: 600px !important;
+    max-width: 100%;
+}
+
+.sidebar-content {
+    padding: 0 1em 0 1em;
 }
