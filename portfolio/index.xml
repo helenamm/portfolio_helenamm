@@ -7,18 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2017 Helena M.M.</copyright>
-    <lastBuildDate>Wed, 22 Nov 2017 11:22:21 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
 	<atom:link href="https://helenamm.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GV Sprint</title>
-      <link>https://helenamm.com/portfolio/work1/</link>
-      <pubDate>Wed, 22 Nov 2017 11:22:21 +0530</pubDate>
+      <title>Name of the work 2</title>
+      <link>https://helenamm.com/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>https://helenamm.com/portfolio/work1/</guid>
-      <description>&lt;p&gt;Methodology created at Google to fast-forward into the future and see finished product and customer reaction before making any expensive commitments.
+      <guid>https://helenamm.com/portfolio/work2/</guid>
+      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Name of the work 6</title>
+      <link>https://helenamm.com/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://helenamm.com/portfolio/work6/</guid>
+      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Item with image</title>
+      <link>https://helenamm.com/portfolio/work11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://helenamm.com/portfolio/work11/</guid>
+      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 &lt;/p&gt;</description>
     </item>
     
