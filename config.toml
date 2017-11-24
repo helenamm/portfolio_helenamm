@@ -6,7 +6,7 @@ theme = "hugo-creative-portfolio-theme"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "sea"
+  style = "red"
   description = "Helena Martinez Merino Portfolio"
   copyright = "2017 Helena M.M."
   subdescription = "UX/UI Designer & Front-end Developer"
