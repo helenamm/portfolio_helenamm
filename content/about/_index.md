@@ -34,4 +34,4 @@ SCRUM · Kanban
 * 2011 - "Curso MN3: Accesibilidad universal y diseño para todos" @ COAM y Fundación ONCE. 
 
 
-[1]: /img/helena/helenamm_ironhack.jpg
+[1]: /img/helena/helenamm_ux.jpg

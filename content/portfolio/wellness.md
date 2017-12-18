@@ -1,10 +1,10 @@
 +++
 date = "2017-11-22T11:22:21+05:30"
-image = "img/portfolio/egroceries_mockup_responsive - small.png"
+image = "img/portfolio/wellness_mockup_landing desk - small.png"
 title = "WORK SMARTER"
 draft = false
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 Aprende técnicas de Time Management de una manera simple y entretenida.

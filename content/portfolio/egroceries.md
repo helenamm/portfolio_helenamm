@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "E-Groceries"
 draft = false
-weight = 7
+weight = 4
 +++
 
 El reto: transladar la experiencia tradicional de un mercado físico a la experiencia digital.
