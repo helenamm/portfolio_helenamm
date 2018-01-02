@@ -1,41 +1,159 @@
-baseURL = "https://helenamm.com"
+# Site settings
+baseURL = "https://helenamm.com/"
 languageCode = "en-us"
-title = "HELENA MARTINEZ MERINO"
-theme = "hugo-creative-portfolio-theme"
+title = "Helena MM"
+theme = "forty"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
 
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
-  style = "red"
-  description = "Helena Martinez Merino Portfolio"
-  copyright = "2017 Helena M.M."
-  subdescription = "UX/UI Designer & Front-end Developer"
-  sidebarAbout = [
-    "Design Thinking • Agile & Lean UX • Sketch",
-    "HTML5 & CSS • Javascript • React JS • Node JS"
-  ]
-  email = "helena.mrtz@gmail.com"
 
-  # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Work"
-  url = ""
+  # Provide your metadata here.
+  name = "Helena Martínez Merino Portfolio"
+  description = "UX/UI Designer & Front-end Developer"
 
-  [[params.navlinks]]
-  name = "About me"
-  url = "/about/"
+  # Link custom assets relative to /static
+  custom_css = ["css/custom.css"]
+  custom_js  = []
+  favicon    = "favicon.ico"
 
-  [[params.navlinks]]
-  name = "Contact"
-  url = "/contact/"
+  # Just a custom image variable, please define it in .md files for content.
+  image = ""
 
-  [params.social]
-  email         = "helena.mrtz@gmail.com"
-  twitter       = "https://twitter.com/helenammerino"
-  linkedin      = "https://www.linkedin.com/in/helena-martinez-merino/"
-  github        = "https://github.com/helenamm"
-  medium        = "https://medium.com/@helenamm"
-  # googleplus    = "full profile url in googleplus"
-  # facebook      = "full page or profile url in facebook"
-  # instagram     = "full profile url in instagram"
-  # stackoverflow = "full profile url in stackoverflow"
+  # 404 error customization
+  [params.error404]
+    heading = "Page couldn't be found"
+    text = "Please visit [this page](/)"
+
+  # Navigation Section
+  [params.navigation]
+    title = "Helena MM"
+    subtitle = "Portfolio"
+    menu = "Menu"
+    # Optional logo as brand stored in img/
+    # logo = "logo.png"
+
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
+
+    # Button Style 1
+    [[params.navigation.button1]]
+      name = "WORK"
+      url = "work"
+
+    # Button Style 2
+    [[params.navigation.button2]]
+      name = "ABOUT ME"
+      url = "about/helena"
+
+  # Banner section
+  [params.banner]
+    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # the 'static/img' folder.
+    title = "Hi, my name is Helena Martínez"
+    subtitle = "I'm a UX/UI Designer & Front-end Developer. "
+    buttonText = "SEE MY WORK"
+
+
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+    
+    [[params.tiles.showcase]]
+      title = "E-Groceries"
+      subtitle = "La experiencia del mercado físico en digital"
+      image = "egroceries_mockup_responsive.png"
+      url = "work/egroceries"
+
+    [[params.tiles.showcase]]
+      title = "TURN"
+      subtitle = "Una app para reunirlos a todos"
+      image = "turn_mockup_mano-login.png"
+      url = "work/turn"
+
+    [[params.tiles.showcase]]
+      title = "Work Smarter"
+      subtitle = "Aprende técnicas de Time Management de una manera simple y entretenida"
+      image = "wellness_mockup - landing 02.png"
+      url = "work/worksmarter"
+
+    [[params.tiles.showcase]]
+      title = "GV Sprint"
+      subtitle = "How to validate solutions in one week."
+      image = "gvsprint_00.png"
+      url = "work/gvsprint"
+
+  [params.blog]
+    # All blogs defined in their own files. You can find example blogs
+    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    # To add more blogs just copy and paste the code.
+
+  # Section Type Two
+  [params.two]
+    enable = true
+    title = "About me"
+    subtitle = """Professional with education and training in Architecture, Web Development and UX/UI Design. 
+                Based on my background in project management and my experience in startups, I bring added value to the planning and development of every project I work on. I’m passionate about Agile and Effective Teamwork techniques like Scrum, Kanban, Lean, and Design Thinking."""
+    buttonText = "VIEW MORE"
+    url = "about/helena"
+
+
+  # Contact section
+  [params.contact]
+    enable = true
+    buttonSend = "Send message"
+    buttonClear = "Clear"
+    formEmail = "helena.mrtz@gmail.com"
+
+    # Contact Section
+    # You can add multiple emails, phone numbers, or addresses
+    # by copying the corresponding map with frontmatter code.
+    [[params.contact.email]]
+    title = "Email"
+    email = "helena.mrtz@gmail.com"
+
+    [[params.contact.address]]
+    title = "Location"
+    street = "Madrid"
+    city = "Spain"
+    #country = "Spain"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = "Helena M.M."
+
+    [[params.footer.social]]
+      icon = "fa-envelope"
+      url= "mailto:helena.mrtz@gmail.com"
+      label = "Email"
+
+    [[params.footer.social]]
+      icon = "fa-linkedin"
+      url= "https://www.linkedin.com/in/helenamartinezmerino/"
+      label = "LinkedIn"
+
+    [[params.footer.social]]
+      icon = "fa-medium" 
+      url= "https://medium.com/@helenamm"
+      label = "Medium"
+    
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://github.com/helenamm"
+      label = "GitHub"
+
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      url= "https://twitter.com/helenammerino"
+      label = "Twitter"
+
+    [[params.footer.quicklinks]]
+      text = "Design: Helena MM &"
+      url= "https://www.html5up.net"
+      alt = "HTML5 UP"

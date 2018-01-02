@@ -1,15 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on HELENA MARTINEZ MERINO</title>
+    <title>Helena MM</title>
     <link>https://helenamm.com/categories/</link>
-    <description>Recent content in Categories on HELENA MARTINEZ MERINO</description>
+    <description>Recent content on Helena MM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2017 Helena M.M.</copyright>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
 	<atom:link href="https://helenamm.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GV Sprint</title>
+      <link>https://helenamm.com/work/gvsprint/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/gvsprint/</guid>
+      <description>As Jake Knapp puts it in Sprint, the essence of the sprint is as follows:
+ “When a risky idea succeeds in a sprint, the payoff is fantastic. But it’s the failures that, while painful, provide the greatest return on investment. Identifying critical flaws after just five days of work is the height of efficiency. It’s learning the hard way, without the “hard way.””
+ But… What is The Design Sprint?</description>
+    </item>
+    
+    <item>
+      <title>GV Sprint</title>
+      <link>https://helenamm.com/work/gvsprint/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/gvsprint/</guid>
+      <description>As Jake Knapp puts it in Sprint, the essence of the sprint is as follows:
+ “When a risky idea succeeds in a sprint, the payoff is fantastic. But it’s the failures that, while painful, provide the greatest return on investment. Identifying critical flaws after just five days of work is the height of efficiency. It’s learning the hard way, without the “hard way.””
+ But… What is The Design Sprint?</description>
+    </item>
+    
+    <item>
+      <title>Work Smarter</title>
+      <link>https://helenamm.com/work/worksmarter/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/worksmarter/</guid>
+      <description>Time managment made it simple and funny</description>
+    </item>
+    
+    <item>
+      <title>Work Smarter</title>
+      <link>https://helenamm.com/work/worksmarter/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/worksmarter/</guid>
+      <description>Time managment made it simple and funny</description>
+    </item>
+    
+    <item>
+      <title>E-groceries</title>
+      <link>https://helenamm.com/work/egroceries/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/egroceries/</guid>
+      <description>El reto: transladar la experiencia física del mercado tradicional a la experiencia digital.</description>
+    </item>
+    
+    <item>
+      <title>E-groceries</title>
+      <link>https://helenamm.com/work/egroceries/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/egroceries/</guid>
+      <description>El reto: transladar la experiencia física del mercado tradicional a la experiencia digital.</description>
+    </item>
+    
+    <item>
+      <title>Helena Martínez Merino</title>
+      <link>https://helenamm.com/about/helena/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://helenamm.com/about/helena/</guid>
+      <description>Professional with education and training in Architecture, Web Development and UX/UI Design.
+Based on my background in project management and my experience in startups, I bring added value to the planning and development of every project I work on. I’m passionate about Agile and Effective Teamwork techniques like Scrum, Kanban, Lean, and Design Thinking.
+Technologies UX/UI Agile &amp;amp; Lean UX · Visual ThinkinG · GV Sprint · User Research · User Testing · Prototyping · Wireframing</description>
+    </item>
+    
+    <item>
+      <title>Helena Martínez Merino</title>
+      <link>https://helenamm.com/about/helena/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://helenamm.com/about/helena/</guid>
+      <description>Professional with education and training in Architecture, Web Development and UX/UI Design.
+Based on my background in project management and my experience in startups, I bring added value to the planning and development of every project I work on. I’m passionate about Agile and Effective Teamwork techniques like Scrum, Kanban, Lean, and Design Thinking.
+Technologies UX/UI Agile &amp;amp; Lean UX · Visual ThinkinG · GV Sprint · User Research · User Testing · Prototyping · Wireframing</description>
+    </item>
+    
+    <item>
+      <title>TURN</title>
+      <link>https://helenamm.com/work/turn/</link>
+      <pubDate>Sun, 01 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/turn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TURN</title>
+      <link>https://helenamm.com/work/turn/</link>
+      <pubDate>Sun, 01 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/turn/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

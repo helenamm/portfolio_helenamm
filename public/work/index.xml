@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX/UI Work on Helena MM</title>
+    <link>https://helenamm.com/work/</link>
+    <description>Recent content in UX/UI Work on Helena MM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://helenamm.com/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GV Sprint</title>
+      <link>https://helenamm.com/work/gvsprint/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/gvsprint/</guid>
+      <description>As Jake Knapp puts it in Sprint, the essence of the sprint is as follows:
+ “When a risky idea succeeds in a sprint, the payoff is fantastic. But it’s the failures that, while painful, provide the greatest return on investment. Identifying critical flaws after just five days of work is the height of efficiency. It’s learning the hard way, without the “hard way.””
+ But… What is The Design Sprint?</description>
+    </item>
+    
+    <item>
+      <title>Work Smarter</title>
+      <link>https://helenamm.com/work/worksmarter/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/worksmarter/</guid>
+      <description>Time managment made it simple and funny</description>
+    </item>
+    
+    <item>
+      <title>E-groceries</title>
+      <link>https://helenamm.com/work/egroceries/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/egroceries/</guid>
+      <description>El reto: transladar la experiencia física del mercado tradicional a la experiencia digital.</description>
+    </item>
+    
+    <item>
+      <title>TURN</title>
+      <link>https://helenamm.com/work/turn/</link>
+      <pubDate>Sun, 01 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/turn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

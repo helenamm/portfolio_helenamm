@@ -1,55 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HELENA MARTINEZ MERINO</title>
+    <title>Helena MM</title>
     <link>https://helenamm.com/</link>
-    <description>Recent content on HELENA MARTINEZ MERINO</description>
+    <description>Recent content on Helena MM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2017 Helena M.M.</copyright>
-    <lastBuildDate>Wed, 22 Nov 2017 11:22:21 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
 	<atom:link href="https://helenamm.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GV Sprint</title>
-      <link>https://helenamm.com/portfolio/gvsprint/</link>
-      <pubDate>Wed, 22 Nov 2017 11:22:21 +0530</pubDate>
+      <link>https://helenamm.com/work/gvsprint/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://helenamm.com/portfolio/gvsprint/</guid>
-      <description>&lt;p&gt;Methodology created at Google to fast-forward into the future and see finished product and customer reaction before making any expensive commitments.
-&lt;/p&gt;</description>
+      <guid>https://helenamm.com/work/gvsprint/</guid>
+      <description>As Jake Knapp puts it in Sprint, the essence of the sprint is as follows:
+ “When a risky idea succeeds in a sprint, the payoff is fantastic. But it’s the failures that, while painful, provide the greatest return on investment. Identifying critical flaws after just five days of work is the height of efficiency. It’s learning the hard way, without the “hard way.””
+ But… What is The Design Sprint?</description>
     </item>
     
     <item>
-      <title>WORK SMARTER</title>
-      <link>https://helenamm.com/portfolio/wellness/</link>
-      <pubDate>Wed, 22 Nov 2017 11:22:21 +0530</pubDate>
+      <title>UX/UI Work</title>
+      <link>https://helenamm.com/about/about/</link>
+      <pubDate>Tue, 31 Oct 2017 22:27:21 -0500</pubDate>
       
-      <guid>https://helenamm.com/portfolio/wellness/</guid>
-      <description>&lt;p&gt;Aprende técnicas de Time Management de una manera simple y entretenida.
-&lt;/p&gt;</description>
+      <guid>https://helenamm.com/about/about/</guid>
+      <description>My life</description>
     </item>
     
     <item>
-      <title>E-Groceries</title>
-      <link>https://helenamm.com/portfolio/egroceries/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <title>Work Smarter</title>
+      <link>https://helenamm.com/work/worksmarter/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>https://helenamm.com/portfolio/egroceries/</guid>
-      <description>&lt;p&gt;El reto: transladar la experiencia tradicional de un mercado físico a la experiencia digital.
-&lt;/p&gt;</description>
+      <guid>https://helenamm.com/work/worksmarter/</guid>
+      <description>Time managment made it simple and funny</description>
     </item>
     
     <item>
-      <title>TURN, una app para reunirlos a todos</title>
-      <link>https://helenamm.com/portfolio/turn/</link>
-      <pubDate>Wed, 13 Dec 2017 22:23:00 +0530</pubDate>
+      <title>E-groceries</title>
+      <link>https://helenamm.com/work/egroceries/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://helenamm.com/portfolio/turn/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
+      <guid>https://helenamm.com/work/egroceries/</guid>
+      <description>El reto: transladar la experiencia física del mercado tradicional a la experiencia digital.</description>
+    </item>
+    
+    <item>
+      <title>Helena Martínez Merino</title>
+      <link>https://helenamm.com/about/helena/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://helenamm.com/about/helena/</guid>
+      <description>Professional with education and training in Architecture, Web Development and UX/UI Design.
+Based on my background in project management and my experience in startups, I bring added value to the planning and development of every project I work on. I’m passionate about Agile and Effective Teamwork techniques like Scrum, Kanban, Lean, and Design Thinking.
+Technologies UX/UI Agile &amp;amp; Lean UX · Visual ThinkinG · GV Sprint · User Research · User Testing · Prototyping · Wireframing</description>
+    </item>
+    
+    <item>
+      <title>TURN</title>
+      <link>https://helenamm.com/work/turn/</link>
+      <pubDate>Sun, 01 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://helenamm.com/work/turn/</guid>
+      <description></description>
     </item>
     
   </channel>
